@@ -1,4 +1,4 @@
-import pygame,model, view, time
+import pygame, view, time,model
 
 
 
